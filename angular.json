@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pruebasBasicas"
+    }
+  },
+  "defaultProject": "pruebasBasicas",
+  "cli": {
+    "analytics": false
+  }
 }
