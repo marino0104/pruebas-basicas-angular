@@ -16,7 +16,7 @@ export class OperacionesBasicas {
           return `${num1} debe ser mayor a ${num2} `;
         }else{
           return num1 / num2;
-        }
+        } 
       }
     }
   }
