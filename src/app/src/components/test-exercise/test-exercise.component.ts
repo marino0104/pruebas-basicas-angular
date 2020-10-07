@@ -19,6 +19,9 @@ export class operacionesBasicas {
           return num1 / num2;
         }
       }
+      else{
+        return 'No ingreso ninguna operación';
+      }
     }
   }
 }
