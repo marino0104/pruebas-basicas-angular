@@ -63,5 +63,4 @@ describe('pruebas unitarias al componente test-exercise', () => {
     const operacion = '';
     expect( component.realizarOperacion(num1, num2, operacion)).toBe('No ingreso ninguna operación')
   });
-
 });
